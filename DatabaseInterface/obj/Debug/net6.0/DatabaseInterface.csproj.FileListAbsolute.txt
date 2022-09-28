@@ -1,0 +1,15 @@
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.exe
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.deps.json
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.runtimeconfig.json
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.dll
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\bin\Debug\net6.0\DatabaseInterface.pdb
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.csproj.AssemblyReference.cache
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.AssemblyInfoInputs.cache
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.AssemblyInfo.cs
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.csproj.CoreCompileInputs.cache
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.dll
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\refint\DatabaseInterface.dll
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.pdb
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\DatabaseInterface.genruntimeconfig.cache
+C:\Users\ajmil\source\repos\DatabaseInterface\DatabaseInterface\obj\Debug\net6.0\ref\DatabaseInterface.dll
